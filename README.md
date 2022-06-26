@@ -168,14 +168,13 @@
 
     Link Github : https://github.com/Purifying12
 
-41. Nama : Nawari
+42. Nama : Nawari
 
     Link Github : https://github.com/javacreatiox
 
 43. Nama : Jhony
 
     Link Github : https://github.com/jhonywong
-
 
 44. Nama : Septian Putra
 
@@ -228,7 +227,7 @@
 56. Nama: Okta Nada Al Husna
 
     Link Github : https://github.com/oktanada
-    
+
 57. Nama : Gusti Muhammad Adzaky
 
     Link Github : https://github.com/GustiMuhammadAdzaky
@@ -236,7 +235,7 @@
 58. Nama : Muhammad Thariq Hidayat
 
     Link Github : https://github.com/mthariqh
-    
+
 59. Nama : Aisyah Fitri Rahmadani
 
     Link Github : https://github.com/Aisyahfr
@@ -248,11 +247,11 @@
 61. Nama : Rizky Rahmat Illahi
 
     Link Github : https://github.com/Rizky1200
-    
+
 62. Nama : Ahmad Afif Aulia Hariz
 
     Link Github : https://github.com/afifhrz
-    
+
 63. Nama : I Putu Wira Pratama Putra
 
     Link Github : https://github.com/wirapratamaz
@@ -261,20 +260,18 @@
 
     Link Github : https://github.com/simonjuntak
 
-
 65. Nama : Kadek Frama Danamastyana
 
     Link Github : https://github.com/kadekframa
 
-    
 66. Nama : Indah Paksi Larasati
 
     Link Github : https://github.com/hadni17
-    
+
 67. Nama : Annisa Fadhilah
 
     Link Github : https://github.com/AnnisaFdd
 
+68. Nama : Magfira Dilaila Fadia
 
-
-
+    Link Github : https://github.com/firafadia28
